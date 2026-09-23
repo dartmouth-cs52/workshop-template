@@ -20,7 +20,7 @@
 * *...*
 * *...*
 
-## Try it (5 minutes)
+## Try it
 
 *The activity the class did. Link + steps, so anyone can redo it later.*
 
