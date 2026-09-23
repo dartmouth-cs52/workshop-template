@@ -44,4 +44,4 @@
 
 ## Slides
 
-*Link to your slides, if you used any.*
+*Link to your slides.*
