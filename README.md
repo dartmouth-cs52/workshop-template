@@ -1,26 +1,47 @@
-# CS52 ELI5:  TITLE
+# CS52 Workshop: TITLE
 
-## Presentation
+**Who:** name + name · **When:** week N
 
-[link to presentation](http://docs.google.com)
+*This README is your cheatsheet. Keep it to one screen — someone who missed your workshop should be able to read this and try the thing. Replace everything in italics. Code, slides, and anything else go in this repo.*
 
-## Review
+## What it is
 
-[link to tutorial/tutorials followed](http://google.com)
-[link or links to your implementated versions if applicable](http://google.com)
+*Two or three sentences. What is it, why does it exist, and what does it replace or sit next to in the CS52 stack.*
 
-### Overview of what was involved
+## When to reach for it
 
-Include screenshots of what you built. 
+* *...*
+* *...*
+* *...*
 
-![screenshot](img/screenshot.png)
+## When not to
 
-### How did it go? 
+* *...*
+* *...*
+* *...*
 
-###  Rating
+## Try it (5 minutes)
 
-⭐️⭐️⭐️⭐️⭐️
+*The activity the class did. Link + steps, so anyone can redo it later.*
 
-## Resources
+1. *...*
+2. *...*
+3. *...*
 
-* cite any resources
+## Demo
+
+*Where the demo code lives in this repo (or a link to a runnable starter), and how to run it.*
+
+## The gotcha
+
+*The one thing the agent or the docs got wrong, or that bit you.*
+
+## Links
+
+* *docs*
+* *the one good tutorial*
+* *the one good video*
+
+## Slides
+
+*Link to your slides, if you used any.*
